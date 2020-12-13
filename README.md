@@ -41,6 +41,3 @@ pillow library
 4) Ved Thakur
 5) Umang Sonika
 6) Samarth Potdar
-
-[![](https://img.shields.io/badge/Donate-Jupyter?style=for-the-badge)](https://razorpay.webug.space/TarunTomar122/Smart-India-Hackathon-Alumni-Monitoring)
-#Supporters
